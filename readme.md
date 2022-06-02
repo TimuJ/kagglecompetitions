@@ -7,4 +7,3 @@ __Flight delays__ - tried some FE and catboost with optuna, nice first try need
 
 __NBME - Score Clinical Patient Notes__ - sweet nothing
 
-__TPS_MAY_2022__ - soon
